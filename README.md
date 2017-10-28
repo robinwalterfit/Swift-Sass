@@ -31,7 +31,7 @@ If you want to use Swift-Sass for example in your server-side Swift projects, al
 
 The test are available for macOS through Xcode and haven't been optimized for Linux, yet.
 
-All you have to do is to edit the following lines according to your needs:
+All you have to do is edit the following lines according to your needs:
 
 ```swift
 let inputPath: String  = "/Users/you/yourProjectsFolder/Swift-Sass/res/scss/style.scss"
