@@ -3,7 +3,7 @@
 /// Sass.swift
 /// Sass
 ///
-/// Compile Sass/Scss with a Swift wrapper around libsass.
+/// Compile Sass/Scss with a Swift wrapper around LibSass.
 ///
 /// - SeeAlso: https://github.com/sass/libsass
 ///
@@ -123,9 +123,9 @@ public final class Sass {
      
      - Parameter context: Default `.file`. Whether to compile from a file or a `String`.
      - Parameter input: Either the path to the Sass/Scss file or the Sass/Scss String.
-     - Parameter outputFile: Default `~/Desktop/compiled.css`. The output file.
+     - Parameter outputFile: The output file.
      */
-    public init( context: Sass.Context = .file, input: String, outputFile: String = "~/Desktop/compiled.css" ) {
+    public init( context: Sass.Context = .file, input: String, outputFile: String ) {
         
         self.context = context
         
@@ -157,9 +157,9 @@ public final class Sass {
      - Parameter context: Default `.file`. Whether to compile from a file or a `String`.
      - Parameter input: Either the path to the Sass/Scss file or the Sass/Scss String.
      - Parameter options: Set `Sass.Options` instead of creating new.
-     - Parameter outputFile: Default `~/Desktop/compiled.css`. The output file.
+     - Parameter outputFile: The output file.
      */
-    public init( context: Sass.Context = .file, input: String, options: Sass.Options, outputFile: String = "~/Desktop/compiled.css" ) {
+    public init( context: Sass.Context = .file, input: String, options: Sass.Options, outputFile: String ) {
         
         self.context = context
         
