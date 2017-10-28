@@ -47,7 +47,7 @@ $ swift test
 
 ### Break down into end to end tests
 
-These tests uses some Scss files of your choice – *e.g. I chose Bootstrap* – and compile them with different options.
+These tests uses some Scss files of your choice – *e.g. I chose [Bootstrap](https://github.com/twbs/bootstrap)* – and compile them with different options.
 
 ## Deployment
 
