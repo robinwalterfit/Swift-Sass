@@ -37,7 +37,7 @@ All you have to do is edit the following lines according to your needs:
 let inputPath: String  = "/Users/you/yourProjectsFolder/Swift-Sass/res/scss/style.scss"
 let outputPath: String = "/Users/you/yourProjectsFolder/Swift-Sass/res/style"
 ```
-Lines: 10 & 11
+Lines: 10 & 11 in ./Tests/SassTests/SassTests.swift
 
 Just run the tests in Xcode or navigate to the project root folder in Terminal and execute:
 
