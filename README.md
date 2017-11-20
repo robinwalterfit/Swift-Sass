@@ -78,4 +78,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 * Checkout these amazing cheat sheets: [README-Template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2), [CONTRIBUTING-Template](https://gist.github.com/PurpleBooth/b24679402957c63ec426) & [GitHub Emojis](https://gist.github.com/rxaviers/7360908)
-* Server-side Swift with **[Vapor](https://github.com/vapor/vapor)**, **[Perfect](https://github.com/PerfectlySoft/Perfect)**, **[Kitura](https://github.com/IBM-Swift/Kitura)** or **[Zewo](https://github.com/Zewo/Zewo)**
+* Server-side Swift with **[HTTP](https://github.com/swift-server/http)**, **[Vapor](https://github.com/vapor/vapor)**, **[Perfect](https://github.com/PerfectlySoft/Perfect)**, **[Kitura](https://github.com/IBM-Swift/Kitura)** or **[Zewo](https://github.com/Zewo/Zewo)**

@@ -542,6 +542,8 @@ public final class Sass {
         
         /**
          The C Wrapper around `Sass_Options`
+         
+         - Since: 1.0.0
          */
         public let options: SassOptions
         
